@@ -1,4 +1,4 @@
-```markdown
+
 # Twitter-like Application
 
 This is a full stack Twitter-like application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application allows users to register, login, create tweets, follow/unfollow users, and more.
